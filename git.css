@@ -1,0 +1,23 @@
+table { border : 5px solid crimson;
+
+color: white; 
+text-align: left;
+position: absolute;
+top: 50%;  /* position the top  edge of the element at the middle of the parent */
+    left: 50%; /* position the left edge of the element at the middle of the parent */
+
+    transform: translate(-50%, -50%);
+     }
+
+th { border : 2px solid cornsilk;
+width:50%%;height: 40px; }
+
+body {background-image: url(sky-purple.gif) ;
+background-size: 100%;}
+
+.unicorn{ 
+    position: relative;
+    left: 1340px;
+    top: 70px;
+    
+}
